@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+    color: white;
+    background-color: #2E0249;
+    font-family: 'Staatliches', cursive;
+        
+}
+
+.btn{
+    background-color: transparent;
+    width: 50%;
+    color: white;
+    font-size: 5rem;
+    border: none;
+    cursor: pointer;
+    font-family: 'Staatliches', cursive;
+    margin-top: 2%;
+}
+
+.btn:hover{
+    color: #A91079;
+}
+
+th:hover{
+    border: 2px solid #A91079;
+}
+td:hover{
+    border: 2px solid #A91079;
+}
+
+img{
+    text-align: center;
+    width: 100%;
+    
+}
+
+.bodytable{
+    text-align: center;
+    font-size: 3rem;
+    width: 40%;
+    margin: auto;
+    margin-top: 3%;
+    /* margin-right: 535px; */
+}
+
+th,td{
+    border: 1px solid white;
+    padding: 50px;
+    width: 40%;
+}
+
+
+footer{
+    margin-top: 7%;
+}
+
+p:hover{
+    color: #F73D93;
+}
+
+.btn-animation{
+    color: red;
+}
